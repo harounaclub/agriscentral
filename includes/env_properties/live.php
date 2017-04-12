@@ -5,10 +5,10 @@
  * ======================================================
  */
 $DB_HOST  		= "localhost";
-$DB_USER  		= "jighi";
-$DB_PASSWORD            = "Jighi123#@";
-$DATABASE  		= "jighi_map";
-$BASE_URL="http://map.jighi.com/";
+$DB_USER  		= "root";
+$DB_PASSWORD            = "Harouna123#";
+$DATABASE  		= "ecoagris";
+$BASE_URL="http://ecoagris.isp-ci.com/";
 
 $PER_PAGE = 10;
 ?>
