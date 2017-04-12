@@ -23,8 +23,10 @@
         <link rel="stylesheet" type="text/css" media="screen" href="/assets/themes/css/smartadmin-skins.min.css">
 
         <!-- #FAVICONS -->
+<!--
         <link rel="shortcut icon" href="/assets/dist/img/Jighi_logo.png" />
         <link rel="icon" href="/assets/dist/img/Jighi_logo.png" type="image/x-icon">
+-->
 
         <!-- #GOOGLE FONT -->
         <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,300,400,700">
